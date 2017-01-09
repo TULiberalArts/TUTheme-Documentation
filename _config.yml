@@ -104,3 +104,18 @@ prose:
               value: faculty
             - name: home
               value: home
+
+# Jekyll Ignore
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
+  - vendor
+  - _site
+  - node_modules
