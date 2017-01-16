@@ -35,5 +35,3 @@ git clone https://github.com/TULiberalArts/Geographic-Information-Systems.git
 git clone https://github.com/TULiberalArts/Geography-and-Urban-Studies.git
 git clone https://github.com/TULiberalArts/TUTheme-Documentation.git
 git clone https://github.com/TULiberalArts/TUTheme-Boilerplate.git
-git clone https://github.com/TULiberalArts/Information-Technology.git
-
