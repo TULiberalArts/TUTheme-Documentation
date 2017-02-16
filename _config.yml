@@ -46,13 +46,20 @@ social:
   slack: 
 
 # University & College Information
-university: Temple University
-university.url: https://temple.edu/
-college: College of Liberal Arts
-college.url: https://liberalarts.temple.edu/
+university:
+  name: Temple University
+  url: https://temple.edu/
+college: 
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
 
 # Google Analytics
 google_analytics: UA-69082166-1
+
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: # https://liberalarts.temple.edu/events/program-slug/csv
+news-feed: # https://liberalarts.temple.edu/news/program-slug/csv
+faculty-feed: # https://liberalarts.temple.edu/profiles/program-slug/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
