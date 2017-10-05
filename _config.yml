@@ -66,6 +66,7 @@ google_tag_manager: GTM-58ZL5B
 events-feed: # https://liberalarts.temple.edu/events/program-slug/csv
 news-feed: # https://liberalarts.temple.edu/news/program-slug/csv
 faculty-feed: # https://liberalarts.temple.edu/profiles/program-slug/csv
+media-mentions-feed: # https://liberalarts.temple.edu/media-mentions/program-slug/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
