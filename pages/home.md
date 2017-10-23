@@ -3,9 +3,22 @@ title: Home
 permalink: "/"
 layout: home
 feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature-title:
+feature-body:
+feature-image:
 ---
 
 Welcome to your new homepage. Content will be coming soon.
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
