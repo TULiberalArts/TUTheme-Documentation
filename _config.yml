@@ -2,7 +2,7 @@
 # Program/Department Title
 title: Documentation
 # Subdirectory (with / at only at beginning)
-baseurl: /docs
+baseurl: # /docs
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
