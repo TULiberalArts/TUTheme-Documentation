@@ -5,6 +5,8 @@ title: Documentation
 baseurl: # /docs
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/docs
 
 
 # Program Information
