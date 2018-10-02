@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: tal_page
 title: Components
-sidebar: This is a test
+published: false
 ---
-
-Welcome!

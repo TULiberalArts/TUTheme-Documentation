@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 permalink: /contact-us/
-layout: page
+layout: tla_page
 published: false
 ---
 

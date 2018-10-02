@@ -1,6 +1,6 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty
+layout: tla_faculty
 published: true
 ---

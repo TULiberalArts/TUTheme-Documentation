@@ -1,11 +1,7 @@
 ---
 title: Home
 permalink: "/"
-layout: home
-feature: false
-feature-title:
-feature-body:
-feature-image:
+layout: tla_home
 ---
 
 Welcome to your new homepage. Content will be coming soon.
